@@ -1,0 +1,16 @@
+.contenedor-seccion {
+    width: 1170px;
+    height: 268px;
+    margin: 10px 10px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    box-shadow: 0 3px 13px 1px rgb(0 0 0 /9%);
+
+}
+
+.imagen-seccion{
+    height: 240px;
+    width: auto;
+}
